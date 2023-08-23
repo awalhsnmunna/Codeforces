@@ -1,7 +1,7 @@
 /*https://codeforces.com/contest/1462/problem/A */ 
 
 #include <bits/stdc++.h>   
-using namespace std;
+using namespace std; 
  
 void favSeq(){
     int size;
