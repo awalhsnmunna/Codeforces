@@ -1,7 +1,7 @@
 /* https://codeforces.com/problemset/problem/1535/A */
 
 #include<bits/stdc++.h>   
-using namespace std;
+using namespace std; 
 
 int Max(int a, int b){
     int max;
