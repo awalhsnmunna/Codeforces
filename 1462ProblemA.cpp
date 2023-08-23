@@ -2,7 +2,7 @@
 
 #include <bits/stdc++.h>   
 using namespace std;
-
+ 
 void favSeq(){
     int size;
     cin>>size;
