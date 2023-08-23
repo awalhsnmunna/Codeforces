@@ -4,7 +4,7 @@
 using namespace std; 
 
 int Max(int a, int b){
-    int max;
+    int max; 
     if(a>b){
         max=a; 
     }else{
